@@ -1,0 +1,32 @@
+{
+    "Overboard": {
+        "genre": "Romantic Comedy",
+        "director": "Rob Greenberg",
+        "release_date": "2018-05-04",
+        "actors": [
+            "Anna Faris",
+            "Eugenio Derbez",
+            "Eva Longoria"
+        ]
+    },
+    "The Dark Knight": {
+        "genre": "Action",
+        "director": "Christopher Nolan",
+        "release_date": "2008-07-18",
+        "actors": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart"
+        ]
+    },
+    "Inception": {
+        "genre": "Sci-Fi",
+        "director": "Christopher Nolan",
+        "release_date": "2010-07-16",
+        "actors": [
+            "Leonardo Dicaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot page"
+        ]
+    }
+}
