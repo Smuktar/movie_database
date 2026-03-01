@@ -1,4 +1,6 @@
-
+<p align="Left">
+    <img src="per_scholas_logo.png" width="300">
+</p>
 
 # PA - 385.2.1 - Practice Assignment - Dictionary
 
